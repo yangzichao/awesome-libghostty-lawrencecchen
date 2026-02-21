@@ -15,6 +15,7 @@ Last audited: 2026-02-21
 - [Agent-Focused Workspaces](#agent-focused-workspaces)
 - [Closed-Source Products](#closed-source-products)
 - [Other Awesome Lists](#other-awesome-lists)
+- [Research Audit](#research-audit)
 - [Contributing](#contributing)
 
 ## Core Resources
@@ -67,6 +68,10 @@ Last audited: 2026-02-21
 
 - [Uzaaft/awesome-libghostty](https://github.com/Uzaaft/awesome-libghostty) - Community-maintained list with open-source and commercial projects.
 - [jc00ke/awesome-libghostty](https://github.com/jc00ke/awesome-libghostty) - Minimal starter list.
+
+## Research Audit
+
+- [2026-02-21 ecosystem audit](research/2026-02-21-audit.md) - Discovery queries, repositories reviewed, and inclusion decisions.
 
 ## Contributing
 

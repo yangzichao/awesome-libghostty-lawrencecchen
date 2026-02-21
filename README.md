@@ -2,7 +2,8 @@
 
 A curated list of projects and resources built with `libghostty` and `libghostty-vt`.
 
-Only clone-verified, code-level integrations are listed in project sections below.
+Most project sections below are clone-verified, code-level integrations.
+Entries under `Claimed / In-Progress Integrations` are explicitly marked as claims or partial implementations.
 
 Last audited: 2026-02-21
 
@@ -13,6 +14,7 @@ Last audited: 2026-02-21
 - [Multiplexers and Session Tools](#multiplexers-and-session-tools)
 - [Web and Editor Integrations](#web-and-editor-integrations)
 - [Agent-Focused Workspaces](#agent-focused-workspaces)
+- [Claimed / In-Progress Integrations](#claimed--in-progress-integrations)
 - [Research Audit](#research-audit)
 - [Contributing](#contributing)
 
@@ -52,6 +54,11 @@ Last audited: 2026-02-21
 
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - Native macOS coding-agent command center built with `libghostty`.
 - [coder/mux](https://github.com/coder/mux) - Agent multiplexer with browser and desktop UX using `ghostty-web`.
+
+## Claimed / In-Progress Integrations
+
+- [mvfti/jupyterlab-ghostty-terminal](https://github.com/mvfti/jupyterlab-ghostty-terminal) - Claims libghostty-powered terminal support in docs/metadata; code-level Ghostty dependency is not clearly wired yet.
+- [ocnc/spectty](https://github.com/ocnc/spectty) - Ghostty-inspired iOS terminal with planned/swappable `libghostty-vt` integration; current build script indicates placeholder wiring.
 
 ## Research Audit
 
